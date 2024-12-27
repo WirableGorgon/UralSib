@@ -1,0 +1,17 @@
+.back-but {
+    font-size: 18px;
+    background-color: rgb(72, 72, 72);
+    border: 1px solid white;
+    padding: 5px 10px;
+    border-radius: 15px;
+}
+
+.post-inf {
+    background-color: rgb(72, 72, 72);
+    padding: 0 10px;
+    border-radius: 15px;
+}
+
+.post-user {
+    color: rgb(160, 159, 159);
+}

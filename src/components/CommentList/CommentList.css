@@ -1,0 +1,16 @@
+.com {
+    margin-bottom: 10px;
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 5px 10px
+}
+
+.email {
+    color: rgb(160, 159, 159);
+    margin-top: 2px;
+}
+
+.name {
+    font-weight: 700;
+    margin-bottom: 0px;
+}
